@@ -19,7 +19,7 @@ Este es el frontend para la aplicación de gestión de solicitudes. Utiliza Reac
 
 1. Clona el repositorio en tu máquina local:
     ```bash
-    git clone <URL del repositorio>
+    git clone https://github.com/milagros-marquina-jumi/front_gestion_solicitudes.git
     ```
 
 2. Entra al directorio del proyecto:
