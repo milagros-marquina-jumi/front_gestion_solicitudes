@@ -11,6 +11,10 @@ Este es el frontend para la aplicación de gestión de solicitudes. Utiliza Reac
 - **FontAwesome**: Iconos para enriquecer la interfaz.
 - **Bootstrap**: Framework CSS para estilizar la aplicación.
 
+## Vista
+![image](https://github.com/user-attachments/assets/2e10ab4a-8872-4fda-afed-eb901f140152)
+
+
 ## Instalación
 
 1. Clona el repositorio en tu máquina local:
